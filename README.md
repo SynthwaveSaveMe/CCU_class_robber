@@ -7,4 +7,4 @@
 Please follow the user manual for instructions. If you encounter any issues, feel free to join the Discord community for discussion." \
 [Discord社群連結](<https://discord.gg/KtcVPCu9ss>)
 
-另有搶課主系統，請加入社群以了解
+另有搶課主系統，沒有搶不到的課，請加入社群以了解
